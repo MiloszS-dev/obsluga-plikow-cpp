@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790075211 source:c:\users\egzamin\desktop\22.09\zadaniezklas\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
